@@ -1,6 +1,6 @@
 # EBAC 
 ## Calculadora aritmética com VueJS
-###Criar um projeto utilizando VueJS;
+### Criar um projeto utilizando VueJS;
 
 • Este projeto será uma calculadora aritmética;
 
